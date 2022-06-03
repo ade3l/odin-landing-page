@@ -137,3 +137,12 @@ button{
     border-style: solid;
     align-self: center;
 }
+
+.footer{
+    background-color: #1F2937;
+    padding: 20px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
